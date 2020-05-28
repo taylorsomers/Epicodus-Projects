@@ -1,0 +1,11 @@
+.header {
+  color: darkred;
+  background-color: lightblue;
+}
+
+.sidebar {
+margin: 10 px;
+border: 3px blanchedalmond;
+padding: 5px;
+background-color: green;
+}
