@@ -4,6 +4,7 @@
 }
 
 .sidebar {
+float: left;
 margin: 10px;
 border: 3px blanchedalmond;
 padding: 5px;
